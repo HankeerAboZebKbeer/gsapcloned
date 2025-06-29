@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  background-color: #000; /* if you want black background */
+}
+
+#root {
+  min-height: 100%;
+  overflow-x: hidden;
+}
